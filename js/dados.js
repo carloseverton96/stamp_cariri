@@ -16,7 +16,7 @@ var MENU = {
             "id": "caneca-3",
             "img": "./img/cardapio/canecas/caneca-3.png",
             "name": "Caneca personalizada",
-            "price": 99
+            "price": 97
         },
         {
             "id": "caneca-4",
