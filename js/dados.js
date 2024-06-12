@@ -71,95 +71,84 @@ var MENU = {
             "img": "./img/cardapio/canecas/caneca-12.png",
             "name": "Caneca personalizada",
             "price": 99
-        },
+        }
 
 
     ],    
-    "churrasco": [
+    "pizzas": [
         {
-            "id": "caneca-1",
-            "img": "./img/cardapio/canecas/caneca-1.png",
-            "name": "caneca-1",
-            "dsc": "Joe's KC Ribs, Brisket & Burnt Ends",
-            "price": 110.99
+            "id": "camisa-1",
+            "img": "./img/cardapio/camisas/camisa-1.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "005-kings-carolina-oink-sampler",
-            "img": "./img/cardapio/churrasco/carolina-bbq-oink-sampler.1340b5a10cedc238cb2280306dd1d5a5.jpg",
-            "name": "Kings BBQ",
-            "dsc": "Carolina BBQ Oink Sampler",
-            "price": 89
+            "id": "camisa-2",
+            "img": "./img/cardapio/camisas/camisa-2.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "texas-monthlys-1-bbq-brisket",
-            "img": "./img/cardapio/churrasco/texas-monthlys-1-bbq-brisket.1006a061be7acae03992e420fbca995a.jpg",
-            "name": "Snow's BBQ",
-            "dsc": "Texas Monthly's #1 BBQ Brisket",
-            "price": 199
+            "id": "camisa-3",
+            "img": "./img/cardapio/camisas/camisa-3.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "whole-brisket-texas-bbq-sauce",
-            "img": "./img/cardapio/churrasco/whole-brisket-texas-barbecue-bbq-sauce.e07ee4818b20ed43d217bf67fedd41ce.jpg",
-            "name": "Franklin Barbecue",
-            "dsc": "Whole Brisket + Texas Barbecue BBQ Sauce",
-            "price": 249
+            "id": "camisa-4",
+            "img": "./img/cardapio/camisas/camisa-4.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "whole-texas-smoked-brisket",
-            "img": "./img/cardapio/churrasco/whole-texas-smoked-brisket.a5558a25381e271408e197936e7985d8.jpg",
-            "name": "Terry Black's Barbecue",
-            "dsc": "Whole Texas Smoked Brisket",
-            "price": 189
+            "id": "camisa-5",
+            "img": "./img/cardapio/camisas/camisa-5.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
-            "img": "./img/cardapio/churrasco/mini-trinity-bbq-combo-brisket-ribs-and-links.245582f593bf64b23b57dfca2be18cfd.jpg",
-            "name": "Bludso's BBQ",
-            "dsc": "Mini Trinity BBQ Combo - Brisket, Ribs & Links",
-            "price": 139
+            "id": "camisa-6",
+            "img": "./img/cardapio/camisas/camisa-6.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "235203-blue-smoke-baby-back-ribs-backyard-barbecue-chicken-combo",
-            "img": "./img/cardapio/churrasco/blue-smoke-baby-back-ribs-backyard-barbecue-chicken-combo.a95a3e632ae324f719738a2a5c1dff6e.jpg",
-            "name": "Blue Smoke",
-            "dsc": "Blue Smoke Baby Back Ribs + Backyard Barbecue Chicken Combo",
-            "price": 129
+            "id": "camisa-7",
+            "img": "./img/cardapio/camisas/camisa-7.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "006-kings-meat-lovers-special",
-            "img": "./img/cardapio/churrasco/bbq-meat-lovers-special-for-10.36ca670fda4bfa783c2ea9165e068d26.jpg",
-            "name": "Kings BBQ",
-            "dsc": "BBQ Meat Lovers Special for 10",
-            "price": 139
+            "id": "camisa-8",
+            "img": "./img/cardapio/camisas/camisa-8.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "the-big-ugly-bbq-dinner-for-6",
-            "img": "./img/cardapio/churrasco/the-big-ugly-bbq-dinner-for-6.2dfae7818811adddce85cc1a910881a0.jpg",
-            "name": "Ugly Drum",
-            "dsc": "The Big Ugly BBQ Dinner for 6",
-            "price": 229
+            "id": "camisa-9",
+            "img": "./img/cardapio/camisas/camisa-9.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "17796-mighty-quinns-bbq-sampler-pack",
-            "img": "./img/cardapio/churrasco/mighty-quinns-bbq-sampler-pack.1bfe4a0665edc565756f5241bf25840e.jpg",
-            "name": "Mighty Quinn's BBQ",
-            "dsc": "Mighty Quinn's BBQ Sampler Pack",
-            "price": 169
+            "id": "camisa-10",
+            "img": "./img/cardapio/camisas/camisa-10.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "post-oak-smoked-half-brisket",
-            "img": "./img/cardapio/churrasco/post-oak-smoked-usda-prime-half-brisket.6f17178dde7d806670bcc73ff11762b3.jpg",
-            "name": "Southside Market & Barbeque",
-            "dsc": "Post Oak Smoked USDA Prime Half Brisket",
-            "price": 109
+            "id": "camisa-11",
+            "img": "./img/cardapio/camisas/camisa-11.png",
+            "name": "Camisa personalizada",
+            "price": 99
         },
         {
-            "id": "best-of-texas-bbq-combo-serves-14",
-            "img": "./img/cardapio/churrasco/best-of-texas-bbq-combo-serves-14.7ae90266335e539c67e77fed14b43029.jpg",
-            "name": "Snow's BBQ",
-            "dsc": "Best of Texas BBQ Combo - Serves 14",
-            "price": 269
+            "id": "camisa-12",
+            "img": "./img/cardapio/camisas/camisa-12.png",
+            "name": "Camisa personalizada",
+            "price": 99
         }
+        
     ],
     "sobremesas": [
         {
@@ -333,7 +322,7 @@ var MENU = {
             "price": 40
         }
     ],
-    "pizzas": [
+    "churrasco": [
         {
             "id": "2-lou-malnatis-deep-dish-pizzas",
             "img": "./img/cardapio/pizzas/2-lou-malnatis-deep-dish-pizzas.bf0fe065d251a9cca3925b269d443a27.jpg",
