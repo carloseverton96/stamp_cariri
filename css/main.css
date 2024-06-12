@@ -15,12 +15,13 @@
     --color-black-heavy: #000000;
     --color-text: #4f4f4f;
     --color-text-out: #90908e;
-    --color-primary: #674694;
+    --color-primary: #000000;
     --color-secondary: #E4D3FF;
     --color-white: #ffffff;
     --color-red: #e74c3c;
     --color-green: #2ecc71;
     --color-separate: #cccccc;
+    --color-blue: #5bbeed;
 }
 
 
@@ -149,7 +150,7 @@ a.navbar-brand {
     height: 450px;
     width: 450px;
     border-radius: 170px;
-    background-color: #E4D3FF;
+    background-color: #0b011c;
     position: absolute;
     right: 0;
     top: -80px;
@@ -175,7 +176,7 @@ a.navbar-brand {
     font-size: 14px;
     position: absolute;
     right: 0;
-    bottom: -75px;
+    bottom: -5px;
 }
 
 .card-case-name {
@@ -320,8 +321,10 @@ a.navbar-brand {
     margin-left: 15px;
 }
 
+
+/* hover dos itens */
 .card-item:hover {
-    background-color: var(--color-primary);
+    background-color: var(--color-blue);
 }
 
 .card-item:hover .title-produto {
@@ -348,7 +351,7 @@ a.navbar-brand {
     left: 0;
     right: 0;
     height: 500px;
-    background-image: url(../img/bg-icons-1.png);
+    background-image: url(../img/bg-icons-1.png)no-repeat;
 }
 
 .card-depoimentos {
