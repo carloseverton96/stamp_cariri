@@ -146,7 +146,7 @@ var MENU = {
             "id": "camisa-12",
             "img": "./img/cardapio/camisas/camisa-12.png",
             "name": "Camisa personalizada",
-            "price": 99
+            "price": 98
         }
         
     ],
