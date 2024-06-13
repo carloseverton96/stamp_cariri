@@ -1,5 +1,5 @@
 var MENU = {
-    "burgers": [
+    "canecas": [
         {
             "id": "caneca-1",
             "img": "./img/cardapio/canecas/caneca-1.png",
@@ -75,7 +75,7 @@ var MENU = {
 
 
     ],    
-    "pizzas": [
+    "camisas": [
         {
             "id": "camisa-1",
             "img": "./img/cardapio/camisas/camisa-1.png",
@@ -150,7 +150,7 @@ var MENU = {
         }
         
     ],
-    "sobremesas": [
+    "chaveiros": [
         {
             "id": "15259-german-chocolate-killer-brownie-tin-pack",
             "img": "./img/cardapio/sobremesas/german-chocolate-killer-brownie-tin-pack.5ebc34160f28767a9d94c4da2e04c4b9.jpg",
@@ -236,7 +236,7 @@ var MENU = {
             "price": 69.95
         }
     ],
-    "bebidas": [
+    "azulejos": [
         {
             "id": "hong-kong-boba-tea-kit-for-6",
             "img": "./img/cardapio/bebidas/hong-kong-boba-tea-kit-for-6.63841de36d8e5edfafa13023fc303285.jpg",
@@ -322,7 +322,7 @@ var MENU = {
             "price": 40
         }
     ],
-    "churrasco": [
+    "ecobags": [
         {
             "id": "2-lou-malnatis-deep-dish-pizzas",
             "img": "./img/cardapio/pizzas/2-lou-malnatis-deep-dish-pizzas.bf0fe065d251a9cca3925b269d443a27.jpg",
@@ -408,7 +408,7 @@ var MENU = {
             "price": 79
         }
     ],
-    "steaks": [
+    "fotocards": [
         {
             "id": "california-reserve-filet-mignon-steaks-gift-box",
             "img": "./img/cardapio/steaks/california-reserve-filet-mignon-steaks-gift-box.bf226e317aad85f47897ae7e325f790d.jpg",

@@ -25,7 +25,7 @@ cardapio.eventos = {
 cardapio.metodos = {
 
     // obtem a lista de itens do cardápio
-    obterItensCardapio: (categoria = 'burgers', vermais = false) => {
+    obterItensCardapio: (categoria = 'canecas', vermais = false) => {
 
         var filtro = MENU[categoria];
         console.log(filtro);
